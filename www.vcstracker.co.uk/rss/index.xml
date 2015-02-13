@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.vcstracker.co.uk" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>VCS Tracker - The database for the voluntary sector.</title>
+ <link>http://www.vcstracker.co.uk</link>
+ <description>VCS Tracker is a powerful voluntary sector database. It allows you to monitor, analyse and connect with your local voluntary and community sector.</description>
+ <language>en</language>
+<item>
+ <title>Communicating via VCS Tracker</title>
+ <link>http://www.vcstracker.co.uk/wiki/communicating-vcs-tracker</link>
+ <description>&lt;p&gt;VCS Tracker is able to send targeted emails to individual and multiple  contacts on the database.  The following pages introduce the main  communication tools (sending an email/letter to single or multiple  contacts) and provides information about how to set an individual&amp;#39;s  mailing preferences.  &lt;/p&gt;
+&lt;br class=&quot;clear&quot; /&gt;</description>
+ <comments>http://www.vcstracker.co.uk/wiki/communicating-vcs-tracker#comments</comments>
+ <pubDate>Tue, 19 Feb 2013 10:47:36 +0000</pubDate>
+ <dc:creator>martin.r</dc:creator>
+ <guid isPermaLink="false">770 at http://www.vcstracker.co.uk</guid>
+</item>
+<item>
+ <title>Adding a group tag</title>
+ <link>http://www.vcstracker.co.uk/wiki/adding-group-tag</link>
+ <description>&lt;p&gt;Group tags enable you to tag a group in relation to a particular  project/themed piece of work your organisation is undertaking.   &lt;/p&gt;
+&lt;p&gt;NB.   Unlike Keywords, the tag is attached to the entire group rather than  individual contact.  It cannot be used for mailing.   &lt;/p&gt;
+&lt;h2 id=&quot;Whyusegrouptags&quot;&gt;&lt;strong&gt;Why use group tags?  &lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;There may be occassions when you need  to understand the amount of work you have undertaken in a set period of  time around a particular theme/project.  By using the Group Tag  mechanism, it is easy to track and report on your wrok in this respect.   &lt;/p&gt;
+&lt;br class=&quot;clear&quot; /&gt;&lt;p&gt;&lt;a href=&quot;http://www.vcstracker.co.uk/wiki/adding-group-tag&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://www.vcstracker.co.uk/wiki/adding-group-tag#comments</comments>
+ <pubDate>Tue, 19 Feb 2013 10:42:12 +0000</pubDate>
+ <dc:creator>martin.r</dc:creator>
+ <guid isPermaLink="false">769 at http://www.vcstracker.co.uk</guid>
+</item>
+<item>
+ <title>Introduction to VCS Tracker</title>
+ <link>http://www.vcstracker.co.uk/wiki/introduction-vcs-tracker</link>
+ <description>&lt;h2 id=&quot;Atailormadedatabase&quot;&gt;&lt;strong&gt;A tailormade database&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;VCS Tracker is a tailor made database that supports the information and  data needs of organisations offering a service to their local Voluntary  and Community Sector (VCS).  It is a powerful tool that allows you to  monitor, analyse and connect with your local VCS.  It features flexible  reporting and activity tracking, as well as an intelligent mailing  system that helps you to accurately target your communication with the  local VCS.  All of your work can be recorded, making it easier than ever  to prove your impact fo funders.&lt;/p&gt;
+&lt;br class=&quot;clear&quot; /&gt;&lt;p&gt;&lt;a href=&quot;http://www.vcstracker.co.uk/wiki/introduction-vcs-tracker&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://www.vcstracker.co.uk/wiki/introduction-vcs-tracker#comments</comments>
+ <pubDate>Tue, 19 Feb 2013 10:34:44 +0000</pubDate>
+ <dc:creator>martin.r</dc:creator>
+ <guid isPermaLink="false">768 at http://www.vcstracker.co.uk</guid>
+</item>
+<item>
+ <title>Enquiries </title>
+ <link>http://www.vcstracker.co.uk/wiki/enquiries</link>
+ <description>&lt;h1 id=&quot;Introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;br class=&quot;clear&quot; /&gt;</description>
+ <comments>http://www.vcstracker.co.uk/wiki/enquiries#comments</comments>
+ <pubDate>Thu, 14 Feb 2013 15:01:04 +0000</pubDate>
+ <dc:creator>martin.r</dc:creator>
+ <guid isPermaLink="false">767 at http://www.vcstracker.co.uk</guid>
+</item>
+<item>
+ <title>Saving your search</title>
+ <link>http://www.vcstracker.co.uk/wiki/saving-your-search</link>
+ <description>&lt;p&gt;VCS Tracker enables you to save  and  export the list of groups/contacts that have been listed as a  result of  your search criteria by clicking on the &amp;#39;Save List&amp;#39; button.  You can then  save this list as an excel file for future reference.  &lt;/p&gt;
+&lt;br class=&quot;clear&quot; /&gt;</description>
+ <comments>http://www.vcstracker.co.uk/wiki/saving-your-search#comments</comments>
+ <pubDate>Thu, 14 Feb 2013 14:59:47 +0000</pubDate>
+ <dc:creator>martin.r</dc:creator>
+ <guid isPermaLink="false">765 at http://www.vcstracker.co.uk</guid>
+</item>
+<item>
+ <title>Refining your search</title>
+ <link>http://www.vcstracker.co.uk/wiki/refining-your-search</link>
+ <description>&lt;p&gt;There are three main ways you can refine your search for groups/contacts on VCS Tracker. &lt;/p&gt;
+&lt;h2 id=&quot;PickKeyword&quot;&gt;&lt;strong&gt;Pick Keyword&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The &amp;#39;Pick Keyword&amp;#39; button (left of the  screen) can be used to bring up a list of all those contacts  listed under a  particular keyword (see picture) (for more information on  &amp;#39;Keywords&amp;#39;  click here).&lt;/p&gt;
+&lt;h2 id=&quot;AdHocQuery&quot;&gt;&lt;strong&gt;Ad Hoc Query&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The &amp;#39;Ad Hoc Query&amp;#39; button  (bottom left of the screen) can be used to create your own set of criteria  from  which to search for groups (see picture).  NEED TO GIVE AN EXAMPLE &lt;/p&gt;
+&lt;br class=&quot;clear&quot; /&gt;&lt;p&gt;&lt;a href=&quot;http://www.vcstracker.co.uk/wiki/refining-your-search&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://www.vcstracker.co.uk/wiki/refining-your-search#comments</comments>
+ <pubDate>Thu, 14 Feb 2013 14:55:46 +0000</pubDate>
+ <dc:creator>martin.r</dc:creator>
+ <guid isPermaLink="false">764 at http://www.vcstracker.co.uk</guid>
+</item>
+<item>
+ <title>Basic search</title>
+ <link>http://www.vcstracker.co.uk/wiki/basic-search</link>
+ <description>&lt;p&gt;The most basic  search function is situated at the top right-hand side of the screen.   Simply click on &amp;#39;Search&amp;#39; and it will bring up a list of all the group  records stored on VCS Tracker.  Alternatively, enter the group name you  are searching for into the blank text box next to the &amp;#39;search&amp;#39;  button  and click &amp;#39;search&amp;#39; or &amp;#39;enter&amp;#39; (see picture). &lt;/p&gt;
+&lt;br class=&quot;clear&quot; /&gt;&lt;p&gt;&lt;a href=&quot;http://www.vcstracker.co.uk/wiki/basic-search&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://www.vcstracker.co.uk/wiki/basic-search#comments</comments>
+ <pubDate>Thu, 14 Feb 2013 14:55:00 +0000</pubDate>
+ <dc:creator>martin.r</dc:creator>
+ <guid isPermaLink="false">763 at http://www.vcstracker.co.uk</guid>
+</item>
+<item>
+ <title>The main toolbar</title>
+ <link>http://www.vcstracker.co.uk/wiki/main-toolbar</link>
+ <description>&lt;p&gt;At the top of VCS Tracker, there is a  toolbar containing a range of drop-down menus.  &lt;/p&gt;
+&lt;p&gt;PICTURE?? &lt;/p&gt;
+&lt;p&gt;The main menus that you  will find useful include &amp;#39;Enquiries&amp;#39;, &amp;#39;Forms&amp;#39;, &amp;#39;Reports&amp;#39; and &amp;#39;Help&amp;#39;.   &lt;/p&gt;
+&lt;br class=&quot;clear&quot; /&gt;&lt;p&gt;&lt;a href=&quot;http://www.vcstracker.co.uk/wiki/main-toolbar&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://www.vcstracker.co.uk/wiki/main-toolbar#comments</comments>
+ <pubDate>Thu, 14 Feb 2013 14:51:36 +0000</pubDate>
+ <dc:creator>martin.r</dc:creator>
+ <guid isPermaLink="false">762 at http://www.vcstracker.co.uk</guid>
+</item>
+<item>
+ <title>Searching data on VCS Tracker</title>
+ <link>http://www.vcstracker.co.uk/wiki/searching-data-vcs-tracker</link>
+ <description>&lt;p&gt;VCS Tracker has a range of search functions  available to help you search the wealth of data that is stored on the  database.  &lt;/p&gt;
+&lt;br class=&quot;clear&quot; /&gt;</description>
+ <comments>http://www.vcstracker.co.uk/wiki/searching-data-vcs-tracker#comments</comments>
+ <pubDate>Thu, 14 Feb 2013 14:49:19 +0000</pubDate>
+ <dc:creator>martin.r</dc:creator>
+ <guid isPermaLink="false">761 at http://www.vcstracker.co.uk</guid>
+</item>
+<item>
+ <title>Report builder</title>
+ <link>http://www.vcstracker.co.uk/wiki/report-builder</link>
+ <description>&lt;h1 id=&quot;Introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Once again if data is being searched for use the financial year, use the ‘Report for Financial Year’ picker to specify which year is wanted.&lt;/p&gt;
+&lt;p&gt;You can also tick the box marked ‘Include income for last 5 years’ and the last 5 years financial will be included at the end of the report.&lt;/p&gt;
+&lt;p&gt;If your report includes fields marked as yes or no you can check the box ‘replace Y/N info with 1/0 for statistical analysis’ and you will then be able to easily count this data in Excel.&lt;/p&gt;
+&lt;br class=&quot;clear&quot; /&gt;&lt;p&gt;&lt;a href=&quot;http://www.vcstracker.co.uk/wiki/report-builder&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://www.vcstracker.co.uk/wiki/report-builder#comments</comments>
+ <pubDate>Thu, 14 Feb 2013 14:47:59 +0000</pubDate>
+ <dc:creator>martin.r</dc:creator>
+ <guid isPermaLink="false">760 at http://www.vcstracker.co.uk</guid>
+</item>
+</channel>
+</rss>

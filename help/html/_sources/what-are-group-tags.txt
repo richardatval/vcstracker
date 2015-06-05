@@ -1,6 +1,0 @@
-.. _what-are-group-tags:
-
-What are Group Tags?
-====================
-
-Details about Group Tags to go here

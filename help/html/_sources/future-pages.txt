@@ -1,9 +1,0 @@
-Future pages
-============
-
-This page is a placeholder for to note down any future pages or sections to write.
-
-Adding Activities
------------------
-
-This section should explain how the Activities tab works, and should also explain adding activities to multiple groups / contacts in one go (via Ad-Hoc Query, Keyword or Quicklist)

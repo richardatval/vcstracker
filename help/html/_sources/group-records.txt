@@ -1,0 +1,128 @@
+Group Records
+=============
+
+VCS Tracker stores multiple pieces of information on groups via the Group Details window, this window is split down into multiple tabs each covering a sub-section of data, you can switch between tabs by clicking on their name.
+
+Group Details tab
+-----------------
+
+The Group Details tab has the main contact information about the group, this tab is split in half (highlighted by the purple line). The top half of this tab shows the main contact information and geographical location for where the group is based and the lower half contains basic details about who the group primarily works with, the main service they provide and what type of 'client' they are.
+
+.. figure:: _static/group-details-tab.png
+   :align: center
+
+.. note:: If you need to change the main contact details for the group you must make the changes on the Contacts tab.
+
+Activities tab
+--------------
+
+The activities tab is used to record the work you have carried out with the group, the activity information can be reported and analysed by using the Activity Report function.
+
+.. figure:: _static/activities-tab.png
+   :align: center
+
+Areas tab
+---------
+
+The Areas tab is used to record what geographical areas a group works in, in our example we have a sub-tab for each district in Leicestershire, and a sub-tab for Leicester City. Each sub-tab contains tickboxes that can be selected to further record particular sub-areas (such as wards) a group works in.
+
+.. figure:: _static/areas-tab.png
+   :align: center
+
+This information can be used in Ad-Hoc query searches, or in the Report Builder or in an Activity Report for more analysis of where services are being provided.
+
+Contacts tab
+------------
+
+The Contacts tab is used to manage the contact for each group, a group can have multiple contacts and each contact can have their own postal address, telephone number, email address, mailing preferences and Keywords. For more information on Keywords and Mailing preferences please see the following sections........ Keywords ....... Mailing Rules
+
+.. figure:: _static/contacts-tab.png
+   :align: center
+
+Data tab
+--------
+
+The Data tab holds various pieces of information about the group that fits outside of the other tabs, the Data tab includes space to record how many full time and part time staff / volunteers a group has, how many beneficiaries a year they support and other data such as their Charity or Limited Company number and any Group tags.
+
+For more information about Group tags please see the :ref:`what-are-group-tags` page.
+
+.. figure:: _static/data-tab.png
+   :align: center
+
+Directory tab
+-------------
+
+The Directory tab is used for storing public facing contact information about the group, this information can then be exported for use with an online directory website or can be used for printed directories.
+
+.. figure:: _static/directory-tab.png
+   :align: center
+
+Before being included in a Directory the group must supply one method of contact, either postal address, telephone, email or fax and must have a Directory Entry. The 'Include in Directories' tickbox must be selected before the group will be included in a directory. By un-ticking this the group's details will be removed from the directory during the next update.
+
+Directory Categories are used to organise the directory into the main services a group provides, the group should select the Directory Categories they wish to appear under.
+
+.. note:: A limit on how many Directory Categories a group can choose is recommended as this allows the Directory search system to provide better results.
+
+Finance tab
+-----------
+
+Finance info
+
+Focus tab
+---------
+
+The Focus tab is split into the sub-tabs of Beneficiaries and Services. This information is used to record the different demographics the group works with and the services that they provide.
+
+Beneficiaries
+#############
+
+The Beneficiaries sub-tab has tickboxes that can be selected to show what different sections of the public the group works with, you can select as many tickboxes as required.
+
+.. figure:: _static/beneficiaries-tab.png
+   :align: center
+
+Services
+########
+
+The Services sub-tab has tickboxes that can be selected to show what different services the group provides, you can select as many tickboxes as required.
+
+.. figure:: _static/services-tab.png
+   :align: center
+
+Notes tab
+---------
+
+The notes tab
+
+* Attention notes: These pop up when opening a group record
+* General notes: These are normal notes
+
+Social tab
+----------
+
+The Social tab is split into the sub-tabs of Ages and Languages. This information is used to record the age ranges and languages the group works with and can support.
+
+Ages
+####
+
+The Ages sub-tab has tickboxes that can be selected to show what age ranges the group works with, you can select as many tickboxes as required.
+
+.. figure:: _static/ages-tab.png
+   :align: center
+
+Languages
+#########
+
+The Languages sub-tab has tickboxes that can be selected to show what languages the group supports, you can select as many tickboxes as required.
+
+.. figure:: _static/languages-tab.png
+   :align: center
+
+Type tab
+--------
+
+The Type tab is used to give a breakdown of what kind of group this is, you can use this tab to help sub-divide groups during your reporting.
+
+.. figure:: _static/type-tab.png
+   :align: center
+

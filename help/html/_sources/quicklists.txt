@@ -1,0 +1,41 @@
+Quicklists
+=================
+What is a Quicklist?
+--------------------
+
+.. warning:: The Quicklist function is currently in development, in the near future all Quicklist functionality will be in the Quick Search window.
+
+A Quicklist is a way of bringing together a quick list of contacts from multiple groups in order to add an Activity, send a Mailshot or add a Keyword to all of those contacts in one go - rather than having to open multiple group records.
+
+.. note:: When you log out of VCS Tracker your Quicklist is cleared
+
+Making a Quicklist
+------------------
+
+Quicklists are created in the Quick Search window using the Contact search function, and are based on individual contacts rather than groups. Start by searching for your first contact remembering to set the Quick search on Contacts.
+
+.. figure:: _static/contact-search-results.png
+   :align: center
+
+Highlight the contact you are looking for and select Add to Quicklist button. This will the highlighted contact into your Quicklist. Continue to search for the other contacts and add them to your Quicklist. You can have as many contacts as you require in a single Quicklist.
+
+Showing a Quicklist
+-------------------
+
+At any time you can show the current contacts that are in your Quicklist by using the Show Quicklist button, the results in the Quick search window will change to show your Quicklist contacts. 
+
+When a set of Quicklist contacts is being displayed you can carry out an action by using the Add Activity, Apply Keyword, Mailshot or Export for Mailings buttons.
+
+.. figure:: _static/show-quicklist.png
+
+You can also remove a contact from your current Quicklist by highlighting them and using the Remove from Quicklist button. You can completely clear the Quicklist by using the Clear Quicklist button.
+
+Quicklist Actions
+-----------------
+
+When showing a Quicklist you can use the following action buttons:
+
+* Add Activity - this allows you to add an activity to every contact in your Quicklist, which will show in their Group record under the Activities tab
+* Apply Keyword - this will add the selected Keyword to every contact in your Quicklist
+* Mailshot - this will open the Mailshot window and allow you to send a letter or email to every contact in your Quicklist. This function obeys the standard mailing rules
+* Export for Mailing - this will export the mailing details for every contact in your Quicklist as an Excel compatible file. This function obeys the standard mailing rules

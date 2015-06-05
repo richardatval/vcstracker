@@ -1,0 +1,51 @@
+Activity Reports
+================
+Using Activity Report
+---------------------
+All activities saved in VCS Tracker can be reported on by using the built in Activity Report function. This allows you to build custom activity reports and save the results to further analyse with software such as Microsoft Excel.
+
+You can create and run an Activity Report at any time, and select additional fields to include that may be useful for any additional analysis you may require. When you run an Activity Report in VCS Tracker you are given the information that is stored at that time - so you can prepare a report template now to use in the future and the results will be updated every time you run it.
+
+Open the Activity Report window by select Activity Report from the Reports menu.
+
+.. figure:: _static/activity-report-window.png
+
+The Activity Report window is split in two, the top third shows an overview of your results and the bottom section allows you to limit your report using commonly required filters before you run it.
+
+Adding fields to your report
+----------------------------
+
+By default an Activity Report already contains some key fields, such as the Group name, the date of the activity, it's Short Description and Analysis and Activity Types. As with the Report Builder you can select virtually any field in VCS Tracker to include in your Activity Report. You can add up to 60 additional fields, select the Customise Report Fields button at the top of the window. This will bring up a smaller window from which you can add fields to appear in your report.
+
+.. figure:: _static/activity-report-fields.png
+   :align: center
+
+.. note:: The fields are grouped together based on the tab they appear on in the Group details window, so for example Beneficiary Area and Postcode can be selected from Group Details, and Full Time / Part Time Workers can be selected from Data.
+
+These customised fields will appear at the end of your report.
+
+Using the filters
+-----------------
+
+Saving the results
+------------------
+
+
+Saving your report as a template
+--------------------------------
+
+You can save an activity report as a template if you need to use the same report frequently. Firstly set up your activity report with any additional fields and search criteria you need. You can select a date range for your report before saving it, or you can leave the date range blank and fill it in when needed.
+
+From the bottom of the Activity Report window select Save Report, a new window will appear allowing you to give your activity report a name and a brief description of what the report is used for. You can either save a report template for only your use or allow all users of VCS Tracker to see and run. 
+
+.. figure:: _static/activity-report-template.png
+   :align: center
+
+.. note:: You can open any report and change the report fields and criteria, but only the user who created the template can save changes to that template.
+
+Loading a report template
+-------------------------
+
+You can load a saved activity report template by selecting the Load Report button, you can see the reports you have made or by changing the Show drop down menu you can see reports that are shared across all users. By selecting a report you can see the description and to load it simply highlight the report you need and click Load Report.
+
+Loading a saved report template will replace any custom fields or search settings you may have previously set before loading the report.

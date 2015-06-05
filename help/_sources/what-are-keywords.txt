@@ -1,0 +1,29 @@
+What are Keywords?
+==================
+
+Keywords have two different uses in VCS Tracker, Keywords can be used to:
+
+* for managing a list of contacts (e.g. subscription to a mailing list)
+* for recording and analysing activities around a specific theme of work
+
+Keywords can be added to VCS Tracker by a Superuser.
+
+Keywords and contacts
+---------------------
+
+Applying a Keyword to a contact
+
+
+Keywords and activities
+-----------------------
+Applying a Keyword to an activity
+
+Keyword groups
+--------------
+
+To help keep the Keywords list organised Keyword groups allow you to keep related Keywords together and easy to find. When a Superuser adds a Keyword it can be placed in any Keyword group, for example you may have Keywords for training events, monthly newsletters subscribers and multiple forums. Rather than appearing as a single list of Keywords mixed together these can be assigned to a common Group, such as Training Events, Newsletters and Forums.
+
+.. figure:: _static/keyword-picker.png
+   :align: center
+
+A Keyword must be part of a Keyword group before it shows in the Keyword picker.

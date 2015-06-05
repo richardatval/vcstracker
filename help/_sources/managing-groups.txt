@@ -1,0 +1,28 @@
+Managing Groups
+===============
+Adding a new group
+------------------
+.. note:: Before adding a new group use the Quick Search to check that they are not already on VCS Tracker, this will help prevent duplicate entries for the same group.
+
+To add a new group record click on the New Group button on the Quick Search window, a blank record will appear ready for you to start filling in.
+
+.. figure:: _static/new-group-record.png
+   :align: center
+
+Some of the fields are highlighted with a red dot, these dots indicate the basic key information required for a group record. As you fill in these fields the red dot will disappear. The contact details of the group are important and will allow us to communicate with the group in the future - the contact details here will also appear in the Contacts tab as the main contact for the group.
+
+Before moving to a different tab you must save the new group record using the Save button.
+
+Editing a group
+---------------
+Information about managing groups records, making sure data is right, data forms.
+
+Archiving a group
+-----------------
+
+If you need to remove a group record from VCS Tracker you can use the Archived tickbox at the top of the Group Details tab. Rather than deleting the record archiving allows any activities for that group to still be included in Activity Reports.
+
+When you select the Archived tickbox you will be asked to provide a reason for why the record is being archived, this reason is automatically saved as an activity. These automatic Group Record Archived activities can later be analysed via the Report Builder to see if there is an underlying reason for records being closed.
+
+.. warning:: When a group record is archived they will no longer appear in searches, and their contacts will no longer receive any mailings.
+

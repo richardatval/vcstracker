@@ -1,0 +1,52 @@
+Searching for Contacts or Groups
+================================
+
+Quick Search
+------------
+The Quick Search window is the fastest way to find Groups and Contacts on VCS Tracker. From this window you can search for Groups or Contacts by using the appropriate toggle button.
+
+.. figure:: _static/quick-search-window.png
+   :align: center
+
+The search bar works on the following data depending if you are searching on Groups or Contacts:
+
+* Groups - Group name, main contact name, postcode, or group ID number
+* Contacts - Contact name, group, e-mail address and known as
+
+Enter your search word into the search bar and click 'Search', if there are any matching records they will appear in the list.
+
+.. figure:: _static/quick-search-results.png
+   :align: center
+
+.. note:: If you cannot find the group or contact you are looking for try a slightly different search. For example if a search for 'Rainbow Parents and Toddlers Group' does not show any results try a search just for the word 'Rainbow' or 'Parent', likewise for contacts you may find better results searching for 'Martin' rather than 'Martin Randall'.
+
+You can open a group's record either by double clicking it in the list, or highlighting the group with a single click and using the 'Group Detail...' button.
+   
+Ad-hoc Query
+------------
+
+You can also search for groups by using the Ad-hoc Query, the Ad-hoc Query function allows for a more customised group search based on the information held in the database via 'Rules'. For example you can use the Ad-hoc Query to do a search for all groups who work with Young People and who provide their service across a specific geographical location, we will use Melton.
+
+To access the Ad-hoc query click on the Ad-hoc query button in the bottom left corner of the Quick search screen. The Ad-hoc query screen will appear.
+
+.. figure:: _static/ad-hoc-window.png
+   :align: center
+
+
+Once you have added the Ad-hoc rules click on the 'Run Query' button. Any groups that match your search rules will be displayed in the Quick Search window.
+
+You can open a group's record either by double clicking it in the list, or highlighting the group with a single click and using the 'Group Detail...' button.
+
+Rules
+#####
+
+For the Ad-hoc search you can use nearly any field in VCS Tracker as search criteria, the Ad-hoc search system has two 'Rules' boxes - 'Match **ALL**...' and 'Match **ANY**...'. The two rule boxes work in different ways.
+
+- Match ALL rules: When using this rule box any groups must match all of the rules you have provided, in this example the only groups that have *both* the Beneficiary of Young People **and** their Area tickboxes must have Melton ticked. Groups who only have one of these will not be included in the results.
+
+- Match ANY rules: When using the rule any groups must match any of the rules you have provided, if we had put our rules in this box then any groups who have *either* the Beneficiary or Young People **or** the Melton Area tickbox selected would be included in the results.
+
+.. note:: * You can have both ALL and ANY rules that work together, for example you could use a single ALL rule to find groups who work with Young People and two ANY rules to show only groups who work in Melton or Oadby and Wigston (your results will contain *only* groups who have the Beneficiary of Young People and from those groups the ones where the Area tickboxes have either Melton **or** Oadby and Wigston ticked. 
+
+.. note:: * You can also use the Comparison option to do different matches, for example Does Not Contain, Greater than 100 or Less than 100
+
